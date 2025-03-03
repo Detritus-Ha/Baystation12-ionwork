@@ -7508,11 +7508,6 @@
 /obj/item/inflatable_dispenser,
 /turf/simulated/floor/tiled/dark/monotile,
 /area/engineering/hardstorage)
-"rD" = (
-/obj/structure/lattice,
-/obj/structure/grille,
-/turf/simulated/wall/r_wall/hull,
-/area/space)
 "rE" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
@@ -18131,10 +18126,6 @@
 	},
 /turf/simulated/floor/tiled,
 /area/hallway/primary/thirddeck/aft)
-"To" = (
-/obj/structure/lattice,
-/turf/simulated/wall/r_wall/hull,
-/area/space)
 "Tp" = (
 /obj/random/obstruction,
 /obj/structure/catwalk,
@@ -48432,7 +48423,7 @@ aa
 aa
 aa
 aV
-To
+bb
 pI
 La
 pI
@@ -48633,8 +48624,8 @@ aa
 aa
 aa
 aa
-rD
-aU
+aV
+pI
 La
 Oa
 Qi

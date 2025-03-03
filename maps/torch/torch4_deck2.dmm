@@ -69,7 +69,9 @@
 	d2 = 2;
 	icon_state = "0-2"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/auxstarboard)
 "ai" = (
 /obj/structure/cable/yellow{
@@ -77,7 +79,9 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/auxstarboard)
 "aj" = (
 /obj/structure/cable/yellow{
@@ -89,7 +93,9 @@
 	name = "Starboard Auxiliary Solar Array"
 	},
 /obj/floor_decal/solarpanel,
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/auxstarboard)
 "ak" = (
 /obj/structure/cable/yellow{
@@ -102,7 +108,9 @@
 	d2 = 4;
 	icon_state = "1-4"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/auxstarboard)
 "al" = (
 /obj/structure/cable/yellow{
@@ -120,7 +128,9 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/auxstarboard)
 "am" = (
 /obj/structure/cable/yellow{
@@ -128,7 +138,9 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/auxstarboard)
 "an" = (
 /obj/structure/cable/yellow{
@@ -146,7 +158,9 @@
 	d2 = 4;
 	icon_state = "2-4"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/auxstarboard)
 "ao" = (
 /obj/structure/cable/yellow{
@@ -164,7 +178,9 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/auxstarboard)
 "ap" = (
 /obj/structure/cable/yellow{
@@ -177,7 +193,9 @@
 	d2 = 8;
 	icon_state = "1-8"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/auxstarboard)
 "aq" = (
 /obj/structure/cable/yellow,
@@ -186,7 +204,9 @@
 	name = "Starboard Auxiliary Solar Array"
 	},
 /obj/floor_decal/solarpanel,
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/auxstarboard)
 "ar" = (
 /obj/machinery/power/solar{
@@ -195,7 +215,9 @@
 	},
 /obj/structure/cable/yellow,
 /obj/floor_decal/solarpanel,
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/auxstarboard)
 "as" = (
 /obj/structure/crematorium,
@@ -256,8 +278,10 @@
 /turf/simulated/floor/tiled,
 /area/engineering/engineering_bay)
 "av" = (
-/turf/simulated/floor,
-/area/space)
+/turf/simulated/floor{
+	map_airless = 1
+	},
+/area/solar/auxstarboard)
 "aw" = (
 /obj/machinery/conveyor_switch/oneway{
 	convdir = -1;
@@ -308,7 +332,9 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/auxstarboard)
 "aB" = (
 /obj/machinery/conveyor{
@@ -5432,7 +5458,9 @@
 /turf/simulated/floor/tiled/techfloor,
 /area/engineering/engine_room)
 "ma" = (
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/port)
 "mb" = (
 /turf/simulated/wall/r_wall/prepainted,
@@ -12159,7 +12187,9 @@
 	pixel_y = 24;
 	req_access = list("ACCESS_ENGINE_EQUIP","ACCESS_EXTERNAL")
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/port)
 "EA" = (
 /obj/structure/cable/yellow{
@@ -12171,7 +12201,9 @@
 	name = "Port Auxiliary Solar Array"
 	},
 /obj/floor_decal/solarpanel,
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/port)
 "EB" = (
 /obj/structure/cable/yellow{
@@ -12179,7 +12211,9 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/port)
 "EC" = (
 /obj/structure/cable/yellow{
@@ -12192,7 +12226,9 @@
 	d2 = 4;
 	icon_state = "1-4"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/port)
 "ED" = (
 /obj/structure/cable/yellow{
@@ -12210,7 +12246,9 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/port)
 "EE" = (
 /obj/structure/cable/yellow{
@@ -12218,7 +12256,9 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/port)
 "EF" = (
 /obj/structure/cable/yellow{
@@ -12236,7 +12276,9 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/port)
 "EG" = (
 /obj/structure/cable/yellow{
@@ -12254,7 +12296,9 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/port)
 "EH" = (
 /obj/structure/cable/yellow{
@@ -12267,7 +12311,9 @@
 	d2 = 8;
 	icon_state = "1-8"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/port)
 "EI" = (
 /obj/structure/cable/yellow,
@@ -12276,7 +12322,9 @@
 	name = "Port Auxiliary Solar Array"
 	},
 /obj/floor_decal/solarpanel,
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/port)
 "EK" = (
 /obj/structure/cable/yellow{
@@ -12294,12 +12342,16 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/port)
 "EL" = (
 /obj/machinery/power/tracker,
 /obj/structure/cable/yellow,
-/turf/simulated/floor,
+/turf/simulated/floor{
+	map_airless = 1
+	},
 /area/solar/port)
 "EO" = (
 /obj/floor_decal/corner/yellow{
@@ -12872,9 +12924,6 @@
 	},
 /turf/simulated/floor/tiled/techfloor/grid,
 /area/engineering/atmos)
-"Gr" = (
-/turf/simulated/floor/reinforced,
-/area/torchexterior)
 "Gs" = (
 /obj/structure/cable{
 	d1 = 2;
@@ -14335,7 +14384,9 @@
 /turf/simulated/floor/tiled/techfloor,
 /area/engineering/atmos)
 "Ls" = (
-/turf/simulated/floor/reinforced,
+/turf/simulated/floor/reinforced{
+	map_airless = 1
+	},
 /area/space)
 "Lt" = (
 /obj/machinery/portable_atmospherics/powered/scrubber,
@@ -18044,10 +18095,6 @@
 "XP" = (
 /turf/simulated/wall/prepainted,
 /area/assembly/robotics)
-"XT" = (
-/obj/machinery/shield_diffuser,
-/turf/simulated/floor/reinforced,
-/area/torchexterior)
 "XU" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
@@ -32618,8 +32665,8 @@ aa
 aa
 aa
 aa
-Gr
-Gr
+lk
+lk
 Ib
 cd
 cI
@@ -33021,9 +33068,9 @@ aa
 aa
 aa
 wb
-XT
-Gr
-Gr
+uZ
+lk
+lk
 bF
 cf
 cJ
@@ -43726,7 +43773,7 @@ aa
 aa
 aa
 aa
-ag
+Ls
 IE
 IE
 IE
@@ -43770,7 +43817,7 @@ DP
 wU
 wU
 wU
-ag
+Ls
 aa
 aa
 aa
@@ -43928,7 +43975,7 @@ aa
 aa
 aa
 aa
-ag
+Ls
 IE
 IE
 IE
@@ -43972,7 +44019,7 @@ Ml
 wU
 wU
 wU
-ag
+Ls
 aa
 aa
 aa
@@ -44130,8 +44177,8 @@ aa
 aa
 aa
 aa
-ag
-aa
+Ls
+Ls
 IE
 IE
 IE
@@ -44173,8 +44220,8 @@ wU
 wU
 wU
 wU
-aa
-ag
+Ls
+Ls
 aa
 aa
 aa
@@ -44332,8 +44379,8 @@ aa
 aa
 aa
 aa
-ag
-aa
+Ls
+Ls
 IE
 IE
 IE
@@ -44375,8 +44422,8 @@ wU
 wU
 wU
 wU
-aa
-ag
+Ls
+Ls
 aa
 aa
 aa
@@ -44535,8 +44582,8 @@ aa
 aa
 aa
 ag
-aa
-aa
+Ls
+Ls
 IE
 IE
 IE
@@ -44576,8 +44623,8 @@ wU
 wU
 wU
 wU
-aa
-aa
+Ls
+Ls
 ag
 aa
 aa
@@ -44737,10 +44784,10 @@ aa
 aa
 aa
 ag
-ag
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
 IE
 IE
 IE
@@ -44776,10 +44823,10 @@ dp
 Zs
 wU
 wU
-aa
-aa
-aa
-ag
+Ls
+Ls
+Ls
+Ls
 ag
 aa
 aa
@@ -44938,12 +44985,12 @@ aa
 aa
 aa
 aa
-aa
 ag
-ag
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
 TK
 ox
 MS
@@ -44977,12 +45024,12 @@ gz
 ox
 ox
 TK
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
 ag
-ag
-aa
 aa
 aa
 aa
@@ -45140,12 +45187,12 @@ aa
 aa
 aa
 aa
-aa
-aa
-ag
-ag
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 TK
 ox
 ox
@@ -45179,12 +45226,12 @@ gz
 ox
 ox
 TK
-aa
-aa
-ag
-ag
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 aa
 aa
@@ -45342,12 +45389,12 @@ aa
 aa
 aa
 aa
-aa
-aa
-aa
-ag
-ag
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 oQ
 Zs
 ox
@@ -45381,12 +45428,12 @@ Zs
 MS
 Zs
 ME
-aa
-ag
-ag
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 aa
 aa
@@ -45544,12 +45591,12 @@ aa
 aa
 aa
 aa
-aa
-aa
-aa
-aa
-ag
-ag
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 Zs
 Zs
 ox
@@ -45566,7 +45613,7 @@ YL
 Ls
 aa
 aa
-Gr
+lk
 aa
 aa
 Ls
@@ -45583,12 +45630,12 @@ Zs
 ox
 Zs
 Zs
-ag
-ag
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 aa
 aa
@@ -45746,12 +45793,12 @@ aa
 aa
 aa
 aa
-aa
-aa
-aa
-aa
-aa
-ag
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 fT
 Zs
 ox
@@ -45768,7 +45815,7 @@ ik
 Ls
 ag
 ag
-Gr
+lk
 ag
 ag
 Ls
@@ -45785,12 +45832,12 @@ ox
 ox
 Zs
 fT
-ag
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 aa
 aa
@@ -45948,13 +45995,13 @@ aa
 aa
 aa
 aa
-aa
-aa
-aa
-aa
-aa
-aa
-ag
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 fT
 fT
 fT
@@ -45970,7 +46017,7 @@ ik
 aa
 aa
 aa
-XT
+uZ
 aa
 aa
 aa
@@ -45986,13 +46033,13 @@ ZZ
 fT
 fT
 fT
-ag
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 aa
 aa
@@ -46149,15 +46196,15 @@ aa
 aa
 aa
 aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-ag
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 fT
 fT
 fT
@@ -46172,7 +46219,7 @@ ik
 aa
 aa
 aa
-Gr
+lk
 aa
 aa
 aa
@@ -46187,15 +46234,15 @@ ox
 fT
 fT
 fT
-ag
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 aa
 aa
@@ -46351,15 +46398,15 @@ aa
 aa
 aa
 aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 ag
 fT
 fT
@@ -46374,7 +46421,7 @@ ik
 ag
 ag
 oH
-Gr
+lk
 oH
 ag
 ag
@@ -46389,15 +46436,15 @@ ox
 fT
 fT
 ag
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 aa
 aa
@@ -46553,16 +46600,16 @@ aa
 aa
 aa
 aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 ag
 fT
 ox
@@ -46576,7 +46623,7 @@ ik
 aa
 aa
 aa
-XT
+uZ
 aa
 aa
 aa
@@ -46590,16 +46637,16 @@ fT
 MS
 fT
 ag
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 aa
 aa
@@ -46755,17 +46802,17 @@ aa
 aa
 aa
 aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 FW
 ox
 fT
@@ -46778,7 +46825,7 @@ ik
 aa
 aa
 aa
-Gr
+lk
 aa
 aa
 aa
@@ -46791,17 +46838,17 @@ ik
 fT
 ox
 gE
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 aa
 aa
@@ -46957,17 +47004,17 @@ aa
 aa
 aa
 aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 TK
 ox
 fT
@@ -46980,7 +47027,7 @@ ik
 aa
 aa
 aa
-Gr
+lk
 aa
 aa
 aa
@@ -46993,17 +47040,17 @@ ik
 fT
 ox
 TK
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 aa
 aa
@@ -47159,17 +47206,17 @@ aa
 aa
 aa
 aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 QT
 ox
 rv
@@ -47182,7 +47229,7 @@ ik
 aa
 aa
 aa
-XT
+uZ
 aa
 aa
 aa
@@ -47195,17 +47242,17 @@ ik
 rv
 ox
 OB
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 aa
 aa
@@ -47361,17 +47408,17 @@ aa
 aa
 aa
 aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 TK
 ox
 fT
@@ -47384,7 +47431,7 @@ jj
 ag
 ag
 aa
-Gr
+lk
 aa
 ag
 ag
@@ -47397,17 +47444,17 @@ jj
 fT
 ox
 TK
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 aa
 aa
@@ -47563,17 +47610,17 @@ aa
 aa
 aa
 aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 fT
 fT
 fT
@@ -47586,7 +47633,7 @@ fT
 fT
 ag
 aa
-Gr
+lk
 aa
 ag
 fT
@@ -47599,17 +47646,17 @@ fT
 fT
 fT
 fT
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 aa
 aa
@@ -47765,17 +47812,17 @@ aa
 aa
 aa
 aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 fT
 fT
@@ -47788,7 +47835,7 @@ fT
 gE
 ag
 aa
-XT
+uZ
 aa
 ag
 FW
@@ -47801,17 +47848,17 @@ fT
 fT
 fT
 aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
+Ls
 aa
 aa
 aa
@@ -47990,7 +48037,7 @@ fT
 fT
 ag
 aa
-Gr
+lk
 aa
 ag
 fT
@@ -48192,7 +48239,7 @@ af
 af
 ag
 ag
-Gr
+lk
 ag
 ag
 af
@@ -48394,7 +48441,7 @@ ag
 af
 af
 oH
-XT
+uZ
 oH
 af
 af
